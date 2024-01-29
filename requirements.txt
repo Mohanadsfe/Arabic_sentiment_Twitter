@@ -1,0 +1,9 @@
+emoji
+tweet-preprocessor
+numpy
+nltk
+sklearn
+regex
+libarchive
+pyunpack
+patool
