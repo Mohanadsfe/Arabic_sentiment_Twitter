@@ -20,14 +20,7 @@ This code is compatible with python 3.x. If python 3 is not default in your syst
 `pip install -r requirements.txt`
 
 
-## Results at Kaggle 
-* SciKit-Learn ML algorithms 
-    * https://www.kaggle.com/mksaad/sentiment-analysis-in-arabic-tweets-using-sklearn
 
-* NLTK Naive Bayes 
-    * https://www.kaggle.com/mksaad/arabic-sentiment-analysis-in-tweets-nb-bow
-
-    * https://www.kaggle.com/mksaad/arabic-sentiment-analysis-in-tweets-nb-bigrams
 
 
 
